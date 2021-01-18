@@ -1,0 +1,126 @@
+==================
+===== VIDEOS =====
+==================
+
+Introduction to Test Driven Development (TDD) - BCNJUG
+https://www.youtube.com/watch?v=1RtYeA0cqM4
+
+A Craftsman’s Guide to Designing a Clean Architecture - by Marcus Biel at JBCNConf'18
+https://www.youtube.com/watch?v=0M4DXVaktPc
+
+Functional is cool, but do you know OO - Sandro Mancuso
+https://www.youtube.com/watch?v=oiFYPAel-KY
+
+SEAT:CODE
+https://www.youtube.com/channel/UCpim48AfASSsrcMd1bETPxw
+
+Micronaut y GraalVM: ¡Compañeros perfectos! - BCNJUG
+https://www.youtube.com/watch?v=ivPyXYA1Mko
+
+Martin Fowler @ OOP2014 "Not Just Code Monkeys"
+https://www.youtube.com/watch?v=Z8aECe4lp44
+
+Exclusive Q&A - James Gosling
+https://www.youtube.com/watch?v=XhFugYDH--c&feature=youtu.be
+
+Long Live and Prosper to Monolith - by Alex Soto at JBCNConf'18
+https://www.youtube.com/watch?v=YGO6QukFxQ8
+
+DevTernity 2018: Sandro Mancuso - Does TDD Really Lead to Good Design?
+https://www.youtube.com/watch?v=KyFVA4Spcgg&feature=emb_logo
+
+Core Design Principles for Software Developers by Venkat Subramaniam
+https://www.youtube.com/watch?v=llGgO74uXMI
+
+Decluttering Java - Project Lombok Best Practices
+https://www.youtube.com/watch?v=DaOmyyRA8VU
+
+Live Refactoring Session: Getting rid of dirty code by Marcus Biel at JBCNConf'19
+https://www.youtube.com/watch?v=Zfgc7qJEZZ0
+
+Evolving a Pragmatic, Clean Architecture - A Craftsman's Guide by Victor Rentea at JBCNConf'19
+https://www.youtube.com/watch?v=WcU0EImGI_g
+https://www.youtube.com/watch?v=KOqIUNUq2Gg
+
+Introduction to Micronaut: Lightweight Microservices by Graeme Rocher at JBCNConf'19
+https://www.youtube.com/watch?v=26cHxMZaPkc
+
+Principles Of Microservices by Sam Newman
+https://www.youtube.com/watch?v=PFQnNFe27kU
+
+Clean Code: The Next Chapter by Victor Rentea at DEVOXX Belgium 2019
+https://www.youtube.com/watch?v=wY_CUkU1zfw&t=15s
+
+Victor Rentea - Unit Testing like a Pro: The Circle of Purity at VOXXED DAYS Bucharest
+https://www.youtube.com/watch?v=1Z_h55jMe-M
+
+
+====================
+===== ARTICLES =====
+====================
+
+https://medium.com/swlh/stop-you-dont-need-microservices-dc732d70b3e0
+
+http://agilemadness.com/?p=18 (Why developers hate Agile?)
+
+https://snyk.io/blog/secure-code-review/
+
+https://marcus-biel.com/getters-and-setters-are-evil/
+
+https://www.freecodecamp.org/news/a-quick-introduction-to-clean-architecture-990c014448d2/
+
+https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/
+
+https://herbertograca.com/
+
+https://groups.google.com/g/clean-code-discussion/c/VSEKheCwMvU?pli=1
+
+https://www.codurance.com/publications/2020/06/09/signs-your-software-is-rotting
+
+https://aboullaite.me/understanding-jit-compiler-just-in-time-compiler/
+
+https://stackoverflow.com/questions/34255490/difference-between-cqrs-vs-cqs
+
+https://cqrs.wordpress.com/documents/cqrs-introduction/
+
+https://dzone.com/articles/the-rise-and-fall-of-a-senior-developer-8?s=09
+
+https://martinfowler.com/bliki/ObjectMother.html
+
+https://victorrentea.ro/blog/avoiding-null-pointer-exception/
+
+https://victorrentea.ro/blog/the-best-code-review/
+
+https://quarkus.io/blog/magic-control/
+
+
+=================
+===== KATAS =====
+=================
+
+https://katalyst.codurance.com/leap-year
+
+
+===================
+===== GUIDES ======
+===================
+
+https://guides.micronaut.io/micronaut-function-graalvm-aws-lambda-gateway/guide/index.html
+
+
+=======================
+===== CONFERENCES =====
+=======================
+
+JETBRAINS JAVA DAY
+https://pages.jetbrains.com/technology-day-java-2020
+
+JLOVE
+https://jlove.konfy.care/jlove-schedule/
+https://www.youtube.com/c/Konfy/videos
+
+JBCNCONF
+https://www.youtube.com/c/BarcelonaJug/videos
+
+DEVOXX
+https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg
